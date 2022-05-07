@@ -1,4 +1,4 @@
-# FrenchPool2008
+# FrenchPool-2008
 
 Ce projet est un jeu de billard Français en 2D écrit en C sur mon temps libre à côté de mes premiers cours de programmation.
 
