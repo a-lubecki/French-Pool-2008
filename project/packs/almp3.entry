@@ -1,0 +1,26 @@
+[Setup]
+AppName=AllegroMP3
+AppVersion=2.0.4
+Description=AllegroMP3 is an Allegro wrapper for the mpglib MP3 decoder part of mpg123.
+Url=http://nekros.freeshell.org/delirium/almp3.php
+
+[Files]
+dll\almp3.dll
+docs\almp3\ALMP3.txt
+docs\almp3\AUTHORS.txt
+docs\almp3\CHANGES.txt
+docs\almp3\COPYING.txt
+docs\almp3\README.txt
+examples\almp3\example.c
+examples\almp3\example.dev
+examples\almp3\example.ico
+examples\almp3\example_private.rc
+include\almp3.h
+include\almp3dll.h
+lib\libalmp3.a
+lib\libalmp3dll.a
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\AllegroMP3\Documentation.lnk
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\AllegroMP3\Authors.lnk
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\AllegroMP3\License.lnk
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\AllegroMP3\Changes.lnk
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\AllegroMP3\Readme.lnk

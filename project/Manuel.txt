@@ -1,0 +1,5 @@
+MANUEL D'INSTALLATION
+
+
+Billard Universe fonctionne avec la librairie ALLEGRO.
+Copier le fichier alleg42.dll dans le répertoire C:\WINDOWS\system32

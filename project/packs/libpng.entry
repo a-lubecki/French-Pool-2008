@@ -1,0 +1,36 @@
+[Setup]
+AppName=libpng
+AppVersion=1.2.8
+Description=The Portable Network Graphics (PNG) format was designed to replace the older and simpler GIF format and, to some extent, the much more complex TIFF format. This package is based on compilation from gnuwin32.sf.net
+Url=http://www.libpng.org/pub/png
+
+[Files]
+bin\libpng-config
+bin\libpng13-config
+bin\libpng13.dll
+bin\png2pnm.exe
+bin\pngtest.exe
+bin\pnm2png.exe
+bin\rpng-win.exe
+bin\rpng2-win.exe
+bin\VisualPng.exe
+bin\wpng.exe
+doc\libpng.3.html
+doc\libpngpf.3.html
+doc\png.5.html
+include\png.h
+include\pngconf.h
+include\libpng13\png.h
+include\libpng13\pngconf.h
+lib\libpng-bcc.lib
+lib\libpng.a
+lib\libpng.def
+lib\libpng.dll.a
+lib\libpng.lib
+lib\libpng13.a
+lib\libpng13.dll.a
+lib\pkgconfig\libpng.pc
+lib\pkgconfig\libpng13.pc
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\libpng\libpng.3.html.lnk
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\libpng\libpngpf.3.html.lnk
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\libpng\png.5.html.lnk

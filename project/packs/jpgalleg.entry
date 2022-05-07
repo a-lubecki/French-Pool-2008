@@ -1,0 +1,23 @@
+[Setup]
+AppName=JPGalleg
+AppVersion=2.5
+Description=This add-on for Allegro will allow you to load/save JPG images using standard Allegro image handling functions.
+Url=http://www.ecplusplus.com/index.php?page=projects&pid=1
+
+[Files]
+docs\jpgalleg\license.txt
+docs\jpgalleg\readme.txt
+examples\jpgalleg\cat.tga
+examples\jpgalleg\datafile.dat
+examples\jpgalleg\datafile.h
+examples\jpgalleg\ex1.c
+examples\jpgalleg\ex2.c
+examples\jpgalleg\ex3.c
+examples\jpgalleg\ex4.c
+examples\jpgalleg\ex5.c
+examples\jpgalleg\jpgalleg.jpg
+include\jpgalleg.h
+lib\libjpgal.a
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\JPGalleg\License.lnk
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\JPGalleg\Documentation.lnk
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\JPGalleg\Homepage.url

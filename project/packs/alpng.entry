@@ -1,0 +1,24 @@
+[Setup]
+AppName=AllegroPNG
+AppVersion=1.2
+Description=This library servers for displaying PNG images in programs using the Allegro multimedia library.
+Url=http://alpng.sourceforge.net/
+
+[Files]
+docs\alpng\changes.txt
+docs\alpng\devpaknotes.txt
+docs\alpng\doc.html
+docs\alpng\licence.txt
+examples\alpng\ex01.c
+examples\alpng\ex01.dev
+examples\alpng\ex01.ico
+examples\alpng\ex01_private.rc
+examples\alpng\image.png
+include\alpng.h
+lib\libalpng.a
+lib\libalpngz.a
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\AllegroPNG\Documentation.lnk
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\AllegroPNG\Homepage.url
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\AllegroPNG\Changes.lnk
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\AllegroPNG\Devpak notes.lnk
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\AllegroPNG\Licence.lnk

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   sodipodi:docbase="C:\Documents and Settings\Aurélien\Mes documents\Devcpp\Allegro\Billard\images"
+   sodipodi:docname="logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="TRUE">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       id="filter4274">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.36664533"
+         id="feGaussianBlur4276" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="513.19579"
+     inkscape:cy="602.49059"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="904"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:382.54556274px;font-style:normal;font-weight:normal;fill:#447821;fill-opacity:1;stroke:#acde90;stroke-width:4.87472963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="174.20903"
+       y="348.16302"
+       id="text2180"
+       transform="matrix(1.0215794,0.1150575,-0.1217832,0.9651604,0,0)"
+       inkscape:export-filename="C:\Documents and Settings\Aurélien\Mes documents\Devcpp\Allegro\Billard\images\logo.bmp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2182"
+         x="174.20903"
+         y="348.16302"
+         style="stroke:#acde90;stroke-width:4.87472963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:382.54559326px;font-style:normal;font-weight:normal;fill:#5aa02c;fill-opacity:1;stroke:#acde90;stroke-width:4.87473059;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="-271.4679"
+       y="435.01266"
+       id="text2160"
+       transform="matrix(1.0090147,-0.1897673,0.2008602,0.9532897,0,0)"
+       inkscape:export-filename="C:\Documents and Settings\Aurélien\Mes documents\Devcpp\Allegro\Billard\images\logo.bmp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2162"
+         x="-271.4679"
+         y="435.01266"
+         style="stroke:#acde90;stroke-width:4.87473059;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:382.54559326px;font-style:normal;font-weight:normal;fill:#71c837;fill-opacity:1;stroke:#acde90;stroke-width:4.87473011;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="255.74014"
+       y="400.07346"
+       id="text2188"
+       transform="matrix(1.0276691,4.5817214e-2,-4.8495484e-2,0.9709138,0,0)"
+       inkscape:export-filename="C:\Documents and Settings\Aurélien\Mes documents\Devcpp\Allegro\Billard\images\logo.bmp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2190"
+         x="255.74014"
+         y="400.07346"
+         style="stroke:#acde90;stroke-width:4.87473011;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:382.54559326px;font-style:normal;font-weight:normal;fill:#008000;fill-opacity:1;stroke:#acde90;stroke-width:4.87472963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="22.148823"
+       y="436.74481"
+       id="text2184"
+       transform="matrix(1.0272579,-5.3417713e-2,5.6540275e-2,0.9705253,0,0)"
+       inkscape:export-filename="C:\Documents and Settings\Aurélien\Mes documents\Devcpp\Allegro\Billard\images\logo.bmp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2186"
+         x="22.148823"
+         y="436.74481"
+         style="stroke:#acde90;stroke-width:4.87472963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:382.54562378px;font-style:normal;font-weight:normal;fill:#5aa02c;fill-opacity:1;stroke:#acde90;stroke-width:4.87473106;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="644.93848"
+       y="313.19223"
+       id="text2196"
+       transform="matrix(1.0088073,0.1907491,-0.2018994,0.9530937,0,0)"
+       inkscape:export-filename="C:\Documents and Settings\Aurélien\Mes documents\Devcpp\Allegro\Billard\images\logo.bmp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2198"
+         x="644.93848"
+         y="313.19223"
+         style="stroke-width:4.87473106">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:382.54559326px;font-style:normal;font-weight:normal;fill:#2d5016;fill-opacity:1;stroke:#acde90;stroke-width:4.87472963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="17.26112"
+       y="435.36185"
+       id="text2176"
+       transform="matrix(1.0209083,0.120257,-0.1272867,0.9645263,0,0)"
+       inkscape:export-filename="C:\Documents and Settings\Aurélien\Mes documents\Devcpp\Allegro\Billard\images\logo.bmp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2178"
+         x="17.26112"
+         y="435.36185"
+         style="stroke:#acde90;stroke-width:4.87472963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:382.54556274px;font-style:normal;font-weight:normal;fill:#008000;fill-opacity:1;stroke:#acde90;stroke-width:4.87472963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="402.26779"
+       y="451.67395"
+       id="text2192"
+       transform="matrix(1.0269369,-5.8668402e-2,6.2097896e-2,0.970222,0,0)"
+       inkscape:export-filename="C:\Documents and Settings\Aurélien\Mes documents\Devcpp\Allegro\Billard\images\logo.bmp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2194"
+         x="402.26779"
+         y="451.67395"
+         style="stroke:#acde90;stroke-width:4.87472963;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">R</tspan></text>
+    <rect
+       style="opacity:1;fill:#93ac93;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.98542547;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2278"
+       width="1103.4517"
+       height="132.09795"
+       x="-201.96133"
+       y="434.56281"
+       rx="24.175791"
+       ry="108.38806"
+       inkscape:export-filename="C:\Documents and Settings\Aurélien\Mes documents\Devcpp\Allegro\Billard\images\logo.bmp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2270"
+       transform="matrix(11.670174,0,0,4.3055145,-3139.4206,-1245.2707)"
+       style="fill:#782121;stroke:#004800;stroke-width:0.99991667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4274)"
+       inkscape:export-filename="C:\Documents and Settings\Aurélien\Mes documents\Devcpp\Allegro\Billard\images\logo.bmp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion2272"><rect
+           id="rect2274"
+           width="337.14285"
+           height="70.714287"
+           x="256.42856"
+           y="392.36218"
+           style="fill:#782121;stroke:#004800;stroke-width:0.99991667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2276"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#004800;stroke-width:0.99991667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Williams Pinball">UNIVERSE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4278"
+       transform="matrix(11.670174,0,0,4.3055145,-3142.7977,-1257.7614)"
+       style="opacity:1;fill:#782121;stroke:none;stroke-width:0.99991667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Documents and Settings\Aurélien\Mes documents\Devcpp\Allegro\Billard\images\logo.bmp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4280"><rect
+           id="rect4282"
+           width="337.14285"
+           height="70.714287"
+           x="256.42856"
+           y="392.36218"
+           style="fill:#782121;stroke:none;stroke-width:0.99991667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara4284"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-width:0.99991667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Williams Pinball">UNIVERSE</flowPara></flowRoot>  </g>
+</svg>

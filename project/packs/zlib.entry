@@ -1,0 +1,16 @@
+[Setup]
+AppName=Zlib
+AppVersion=1.2.3
+Description=A Massively Spiffy Yet Delicately Unobtrusive Compression Library (Also Free, Not to Mention Unencumbered by Patents) -  Build by Georgy Berdyshev, codingmaster <codingmaster@gmail.com> - http://people.myserverproject.net/~codingmaster/
+Url=http://www.zlib.net/
+
+[Files]
+bin\zlib1.dll
+doc\zlib.html
+include\zconf.h
+include\zlib.h
+lib\libz.a
+lib\libz.dll.a
+lib\zlib.def
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\Zlib\Website.url
+C:\Documents and Settings\Administrateur\Menu Démarrer\Programmes\Bloodshed Dev-C++\Zlib\Documentation (html).lnk
